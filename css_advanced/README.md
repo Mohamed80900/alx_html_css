@@ -1,28 +1,35 @@
-# CSS Advanced
+# Advanced CSS Project - SmileSchool
 
-This is an advanced CSS styling project based on a Figma design.
+This project is part of the ALX Front-End curriculum. It focuses on implementing advanced CSS techniques based on a Figma design.
 
-## 🎯 Objectives
+## 🧩 Features
 
-- Recreate a web page using HTML & advanced CSS.
-- Practice layout techniques, typography, and image placement.
-- Understand and apply a designer's vision from Figma into actual code.
+- Fully responsive layout
+- Flexbox and grid-based structure
+- Custom fonts and icons
+- Clean, semantic HTML structure
 
-## 🖌️ Figma Design
+## 🛠️ Built With
 
-You can view the design here: [Figma Link](https://www.figma.com/file/XYZ)
+- HTML5
+- CSS3
+- Font Awesome
+- Figma (design reference)
 
-## 📁 Files
+## 📁 Directory
 
-- index.html – HTML structure of the page.
-- styles.css – Custom CSS styles.
+- `index.html`: Main HTML structure
+- `styles.css`: All custom styling
+- `images/`: Assets used throughout the page
 
-## 🧠 Notes
+## 🔗 Figma Design
 
-- Fonts used: Source Sans Pro and Spin Cycle OT.
-- All images are placed in the `/images` folder.
-- Some values from Figma have been rounded.
+[Figma Design File](#) (replace with actual link)
 
-## 🔧 How to run
+## 📸 Preview
 
-Simply open `index.html` in your browser.
+![Screenshot](#)
+
+## 💡 Author
+
+Mohamed Hamdy Fouad (عمي محمد عميرة)
